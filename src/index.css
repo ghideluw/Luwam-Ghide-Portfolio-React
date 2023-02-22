@@ -2,7 +2,7 @@ body {
   font-family: 'Montserrat', sans-serif;
   font-family: 'Oswald', sans-serif;
   text-align: center;
-  background-color: rgb(203, 227, 189);
+  background-color: rgb(195, 200, 193);
 
 }
 
@@ -11,7 +11,8 @@ body {
   text-align: center;
   display: block;
   width: 100%;
-  background-color: rgb(228, 228, 110);
+  background-color: rgb(99, 99, 96);
+  
   
 }
 
@@ -24,6 +25,7 @@ div.navbar-brand {
 .navbar .navbar-brand > .navbar-item,
 .navbar .navbar-brand .navbar-link {
   display: inline-block;
+  color:beige;
 }
 
 main {
@@ -43,7 +45,8 @@ main {
 }
 
 footer.footer {
-  background-color: rgb(228, 228, 110);
+  background-color: rgb(99, 99, 96);
+  color:beige
 }
 
 

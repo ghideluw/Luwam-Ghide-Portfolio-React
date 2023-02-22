@@ -64,16 +64,20 @@ function Portfolio() {
 			deployed: 'https://edit-text-app.herokuapp.com/',
 		},
 		{
-			name: 'Employee Tracker',
+			name: 'Book Search Engine',
 			description:
-				'The goal of this project is to create a command-line application that will be able to access and manage an employee database for a company.',
-			image: 'Employee-tracker.png',
+				'The goal of this project was to take a Google Books API search engine that use a Restful API, and refractor it to be a GraphQL API that uses an Apollo Server.',
+			image: 'Book Search Engine.png',
 			technologies: [
+				'GraphQL',
+				'Express.js',
+				'React',
 				'Node.js',
-				'Inquirer',
-				'MySQL',
+				'Mongoose',
+				'MongoAtlas',
 			],
-			github: 'https://github.com/ghideluw/Employee-Tracker-Challenge-12',
+			github: 'https://github.com/ghideluw/Book-Search-Engine-Challenge-21',
+			deployed: 'https://searchbooks.herokuapp.com/',
 			
 		},
 		
