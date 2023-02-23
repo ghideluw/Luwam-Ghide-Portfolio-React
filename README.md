@@ -15,7 +15,8 @@ To get the development environment running, clone the repository and run "npm in
 
 ## Usage
 
-##SCREENSHOT ![image](https://user-images.githubusercontent.com/111549689/220463470-324f8f6d-b372-41f2-be6b-1ae9f9e6d4c0.png)
+##SCREENSHOT ![image](https://user-images.githubusercontent.com/111549689/220821361-aba8f74c-fed7-4982-a87d-2189f1a4fde4.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
