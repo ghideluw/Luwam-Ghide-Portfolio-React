@@ -5,7 +5,7 @@ function About() {
     <div>
       <p className="content is-medium">Full Stack Developer</p>
       <hr />
-      <img className="profilepic" src={process.env.PUBLIC_URL + './assets/img/profilephoto2.jpg'} alt="Luwam Ghide photo"/>
+      <img className="profilepic" src={process.env.PUBLIC_URL + './assets/img/female_side_profile_computer.png'} alt="Luwam Ghide photo"/>
       <p className="content is-italic mt-4">
       Hello, My name is Luwam Ghide. I am a full stack Web developer. I am currently studying at the University of Toronto School of 
       Continuing Education in the Coding Bootcamp Certificate Program.

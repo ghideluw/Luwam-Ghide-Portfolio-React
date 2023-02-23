@@ -1,5 +1,7 @@
 import React from "react";
-import { FontAwesomeIcon}  from '@fortawesome/react-fontawesome'
+
+
+// ReactDOM.render(element, document.body)
 function Footer() {
   return (
     <footer className="footer">
@@ -17,26 +19,21 @@ function Footer() {
           >
             LinkedIn
           </a>
-          <li>
-          <FontAwesomeIcon icon="fa-brands fa-linkedin" />
-            </li>
+          {" "}
+          |{" "}{" "}
             <a
             href="https://www.twitter.com/"
             target="_blank" rel="noreferrer"
           >
             Twitter
           </a>
-          <li>
-          <FontAwesomeIcon icon="fa-brands fa-twitter" />
-            </li>
+          
           {" "}
           |{" "}{" "}
          <a href="https://github.com/ghideluw" target="_blank" rel="noreferrer">
             Github
           </a>
-          <li>
-          <FontAwesomeIcon icon="fa-brands fa-github" />
-            </li>
+          
         </p>
       </div>
     </footer>
